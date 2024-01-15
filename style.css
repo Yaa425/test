@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    font-family: Arial;
+    background-color:pink;
+    color: red;
+    font-family:italic;}
+
+    #blackWords{
+        background-color:yellow;
+        color: black;
+    }
+
+    .purpleWords{
+        background-color: white;
+        color:purple;
+    }
